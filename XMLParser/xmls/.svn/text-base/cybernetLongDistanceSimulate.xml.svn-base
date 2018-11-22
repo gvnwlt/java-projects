@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">Cybernet Long Distance Sim</entry>
+<entry key="description">Cybernet Long Distance Sim</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/cybernetLongDistanceSimulate.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/cybernetLongDistanceSimulate.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<entry key="armadillo.sim.init.orientation">90</entry>
+<entry key="armadillo.cps.cleared">0</entry>
+<!--entry key="armadillo.sim.obstacle.point">1.1.8</entry-->
+
+<entry key="armadillo.sim.obstacle1.point">3.1.1</entry>
+<entry key="armadillo.sim.obstacle2.point">3.1.2</entry>
+<entry key="armadillo.sim.obstacle3.point">3.1.3</entry>
+<entry key="armadillo.sim.obstacle4.point">3.1.4</entry>
+<entry key="armadillo.sim.obstacle5.point">3.1.5</entry>
+<entry key="armadillo.sim.obstacle6.point">3.1.6</entry>
+<entry key="armadillo.sim.obstacle7.point">3.1.7</entry>
+<entry key="armadillo.sim.obstacle8.point">3.1.8</entry>
+<entry key="armadillo.sim.obstacle9.point">3.1.9</entry>
+<entry key="armadillo.sim.obstacle10.point">3.1.10</entry>
+<entry key="armadillo.sim.obstacle11.point">3.1.11</entry>
+<entry key="armadillo.sim.obstacle12.point">3.1.12</entry>
+<entry key="armadillo.sim.obstacle13.point">3.1.13</entry>
+<entry key="armadillo.sim.obstacle14.point">3.1.14</entry>
+<entry key="armadillo.sim.obstacle15.point">3.1.15</entry>
+<entry key="armadillo.sim.obstacle16.point">3.1.16</entry>
+<entry key="armadillo.sim.obstacle17.point">3.1.17</entry>
+<entry key="armadillo.sim.obstacle18.point">3.1.18</entry>
+<entry key="armadillo.sim.obstacle19.point">3.1.19</entry>
+
+<entry key="armadillo.sim.simulate_sick">true</entry>
+
+</properties>

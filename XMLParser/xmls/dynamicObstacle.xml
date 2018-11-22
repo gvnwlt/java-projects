@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">Dynamic Obstacle</entry>
+<entry key="description">Dynamic Obstacle</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/dynamicObstacles.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/dynamicObstacles.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<entry key="armadillo.sim.init.orientation">45</entry>
+<entry key="armadillo.sim.dynObstacle1.point">1.1.1</entry>
+<entry key="armadillo.sim.dynObstacle2.point">1.1.30</entry>
+<entry key="armadillo.sim.dynObstacle3.point">1.1.20</entry>
+<entry key="armadillo.sim.dynObstacle4.point">1.1.10</entry>
+<entry key="armadillo.sim.dynObstacle5.point">1.2.1</entry>
+<entry key="armadillo.sim.dynObstacle6.point">1.2.30</entry>
+<entry key="armadillo.sim.dynObstacle7.point">1.2.20</entry>
+<entry key="armadillo.sim.dynObstacle8.point">1.2.10</entry>
+<entry key="armadillo.sim.simulate_sick">true</entry>
+
+</properties>

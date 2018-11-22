@@ -1,0 +1,59 @@
+Answers to chapter 6 review questions
+
+01. What is an expression?
+
+ A: An expressions is a combination of constants, variables, and operators
+    which results in a single value.
+
+02. What is an operator?
+
+ A: An operator is a symbol used in source code to specify a specific
+    operation.
+
+03. How do expressions get work done in a program?
+
+ A: Expressions manipulate the data by combining, altering, testing, and
+    changing it. 
+
+04. What is meant by the "result" of an expression?
+
+ A: The data items of the expression are combined with one or more operators
+    to come up with a single value called the result.
+
+05. Describe an arithmetic expression.
+
+ A: An expression that uses arithmetic operators on numeric data.
+
+06. What is the purpose of an arithmetic expression?
+
+ A: To perform an arithmetic calculation producing a numeric result.
+
+07. Describe a relational expression.
+
+ A: An expression that uses relational operators on data.
+
+08. What is the purpose of a relational expression?
+
+ A: To compare the relationships between data items producing a "truth value"
+    result.
+
+09. What is a boolean value?
+
+ A: A boolean value is a value that is either true or false.
+
+10. Explain the purpose of the "and" and the "or" operator.
+
+ A: To combine two or more relational expressions to see if both or either
+    are true or false.
+
+11. What is precedence?
+
+ A: Precedence is the rule that determines which operator in an expression
+    gets evaluated first.
+
+12. What is associativity?
+
+ A: Associativity is the rule that determines in which order the operator
+    looks at its operands, and also which operator in an expression
+    gets evaluated first when they have the same precedence.
+

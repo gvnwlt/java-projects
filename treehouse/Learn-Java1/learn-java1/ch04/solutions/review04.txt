@@ -1,0 +1,36 @@
+Answers to chapter 4 review questions
+
+01. What is the primary purpose of a computer program?
+
+ A: The primary purpose of a computer program is to process information.
+
+02. Where does a program keep the information it is processing?
+
+ A: A program stores information in main memory when it is processing it.
+
+03. How big is a byte?
+
+ A: A byte is eight bits.
+
+04. How does a computer represent all information internally?
+
+ A: A computer represents all information internally as patterns of bits.
+
+05. What are the three basic data types in computer programming?
+
+ A: 1) Character
+    2) Integer
+    3) Floating point, including double-precision floating point
+
+06. Explain what constant, or literal, data is.
+
+ A: A constant is a piece of data whose value cannot change at run time.
+
+07. What is a variable used for?
+
+ A: A variable is a place for storing a piece of data whose value can be
+    changed by the program at run time.
+
+08. Explain and describe the purpose of assignment.
+
+ A: Assignment stores a specific value in a variable.

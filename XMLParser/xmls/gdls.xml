@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">RTC Demo at GDLS</entry>
+<entry key="description">Loop around parking lot outside GDLS.</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/gdls.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/gdls.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<!--entry key="armadillo.sim.init.orientation">180</entry-->
+<entry key="armadillo.cps.cleared">0</entry>
+<entry key="armadillo.sim.simulate_sick">false</entry>
+
+</properties>

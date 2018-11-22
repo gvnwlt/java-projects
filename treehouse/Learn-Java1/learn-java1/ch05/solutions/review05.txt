@@ -1,0 +1,39 @@
+Answers to chapter 5 review questions
+
+01. Where should your program's output, other than error messages,
+    be sent?
+
+ A: Output should be sent to the standard output device.
+
+02. Where should your program's error messages be sent?
+
+ A: Output should be sent to the standard error device.
+
+03. What is the standard output device?
+
+ A: The standard output device is your terminal screen.
+
+04. What is the purpose of an escape sequence?
+
+ A: An escape sequence represents a special character that can't be
+    directly represented in your source code by typing a character on
+    the keyboard.
+
+05. What is meant by the phrase "formatting your program's output"?
+
+ A: Formatting means arranging your program's output in a way that is
+    useful, looks good, and makes sense.  When writing output to the
+    screen, you include spaces, tabs, newlines, etc., to display your
+    program's output data in specific columns and lines.
+
+06. From where does your program read input the user types?
+
+ A: Input is read from the standard input device.  The standard input
+    device is your terminal's keyboard.
+
+07. List the steps needed to prompt your program's user for input.
+
+ A: 1) Define a variable to store the data in.
+    2) Print a message on the screen that tells the user what you want.
+    3) Read the user input from the standard input device into your program's
+       variable.

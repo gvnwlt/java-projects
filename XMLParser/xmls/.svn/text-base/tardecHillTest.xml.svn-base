@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">Tardec Hill</entry>
+<entry key="description">Tardec Hill</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/tardec_obstacles.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/tardecHill.mdf</entry>
+<entry key="armadillo.sim.init.point">7.1.2</entry>
+<entry key="armadillo.sim.init.orientation">90</entry>
+
+<entry key="armadillo.sim.obstacle1.point">3.1.21</entry>
+<entry key="armadillo.sim.obstacle2.point">3.1.48</entry>
+<entry key="armadillo.sim.obstacle3.point">3.1.49</entry>
+<entry key="armadillo.sim.obstacle4.point">3.1.50</entry>
+<entry key="armadillo.sim.obstacle5.point">3.1.51</entry>
+<entry key="armadillo.sim.obstacle6.point">3.1.52</entry>
+
+<entry key="armadillo.sim.dynObstacle1.point">8.1.1</entry>
+<entry key="armadillo.sim.dynObstacle2.point">8.1.2</entry>
+<entry key="armadillo.sim.dynObstacle3.point">8.1.3</entry>
+
+
+<entry key="armadillo.sim.simulate_sick">true</entry>
+
+</properties>

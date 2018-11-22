@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">Intersection Test</entry>
+<entry key="description">Intersection Test</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/dynamicObstacles.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/dynamicObstacles.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<entry key="armadillo.sim.init.orientation">45</entry>
+<!--entry key="armadillo.sim.obstacle1.point">1.2.62</entry>
+<entry key="armadillo.sim.obstacle2.point">3.1.10</entry>
+<entry key="armadillo.sim.obstacle3.point">1.2.67</entry>
+<entry key="armadillo.sim.obstacle4.point">1.1.70</entry>
+<entry key="armadillo.sim.obstacle5.point">1.1.34</entry-->
+<entry key="armadillo.sim.dynObstacle1.point">1.1.1</entry>
+<entry key="armadillo.sim.dynObstacle2.point">1.1.30</entry>
+<entry key="armadillo.sim.dynObstacle3.point">1.1.50</entry>
+<entry key="armadillo.sim.dynObstacle4.point">1.2.1</entry>
+<entry key="armadillo.sim.dynObstacle5.point">1.2.30</entry>
+<entry key="armadillo.sim.dynObstacle6.point">1.2.50</entry>
+<entry key="armadillo.sim.dynObstacle7.point">2.1.1</entry>
+<entry key="armadillo.sim.dynObstacle8.point">2.1.13</entry>
+<entry key="armadillo.sim.dynObstacle9.point">2.2.1</entry>
+<entry key="armadillo.sim.dynObstacle10.point">2.2.13</entry>
+<entry key="armadillo.sim.simulate_sick">true</entry>
+
+</properties>

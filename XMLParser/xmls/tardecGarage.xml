@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">Tardec Garage</entry>
+<entry key="description">Tardec Garage</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/tardec.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/tardecGarage.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<entry key="armadillo.sim.init.orientation">90</entry>
+<!--entry key="armadillo.sim.obstacle.point">1.1.8</entry-->
+<entry key="armadillo.sim.simulate_sick">true</entry>
+
+</properties>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">3 Point Turn Test</entry>
+<entry key="description">Traversing a 2-lane road in the middle of the north parking lot.</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/twolane.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/twolane.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<entry key="armadillo.sim.init.orientation">0</entry>
+<entry key="armadillo.cps.cleared">0</entry>
+<entry key="armadillo.sim.simulate_sick">false</entry>
+
+</properties>

@@ -1,0 +1,66 @@
+Answers to chapter 2 review questions
+
+01. What is computer programming?
+
+ A: Computer Programming is the art of communicating algorithms to
+    computers.
+
+02. What is an algorithm?
+
+ A: An algorithm is a computational procedure whose steps are
+    completely specified and elementary.
+
+03. What is the purpose of a computer program?
+
+ A: The purpose of a computer program is to give instructions to a
+    computer on how to perform some specific data processing task.
+
+04. Explain the difference between a system program and an application
+    program.
+
+ A: System programs are programs that come with your computer system to
+    make the computer easier to use.  Application programs are programs
+    written to perform some specific data processing task.  System programs
+    are there to support the creation and running of application programs.
+
+05. List the three steps that most computer programs perform to
+    accomplish their task.
+
+ A: 1) Input data.
+    2) Process the data.
+    3) Produce results of processing as output.
+
+06. What are some popular programming languages?
+
+ A: Pascal, BASIC, C, C++, C#, COBOL, Fortran, Java, ...
+
+07. List the steps involved in writing a computer program.
+
+ A: 1) Create the source code.
+    2) Compile the source code.
+    3) Execute the compiled program.
+    4) Debug the program.
+    5) Repeat steps 1 through 4.
+
+08. Name  some of the files created during the programming process and where
+    they are stored.
+
+ A: a) source code file 
+    b) byte code file
+    They are all stored on the computer's disks.
+
+09. What's the difference between a compiler error and a runtime error?
+
+ A: Compiler errors must be fixed before the program can be run; runtime
+    errors don't occur until the program is run.  Compiler errors are mistakes
+    in using the syntax and semantics of the language; runtime errors are
+    mistakes in design and logic.
+
+10. Explain the difference between a programming language and a development
+    environment.
+
+ A: A programming language is defined by the syntax and semantics of its
+    language statements;  a development environment is a collection of
+    utility programs that help you write, compile, run, and debug computer
+    programs written in the specific language.
+

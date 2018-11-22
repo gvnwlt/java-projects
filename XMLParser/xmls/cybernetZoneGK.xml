@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "./properties.dtd">
+<properties>
+<comment>stuff</comment>
+<entry key="name">Cybernet Zone GK</entry>
+<entry key="description">Cybernet Zone GK</entry>
+<entry key="java.library.path">./MissionPlanner.jar</entry>
+<entry key="armadillo.rndf.file">../ConfigData/Maps/newCybernet.rndf</entry>
+<entry key="armadillo.mdf.file">../ConfigData/Maps/cybernetZoneGK.mdf</entry>
+<entry key="armadillo.sim.init.point">1.1.1</entry>
+<entry key="armadillo.sim.init.orientation">90</entry>
+
+<!--entry key="armadillo.sim.obstacle1.point">5.1.1</entry>
+<entry key="armadillo.sim.obstacle2.point">5.1.2</entry>
+<entry key="armadillo.sim.obstacle3.point">5.1.3</entry>
+
+<entry key="armadillo.sim.simulate_sick">true</entry-->
+</properties>
