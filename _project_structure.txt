@@ -1,0 +1,21 @@
+bin (Binaries)
+doc (Documents)
+inf (Information)
+lib (Libraries)
+res (Resources)
+src (Source)
+tst (Test)
+
+ProjectName/
+  .builder/
+    file.xml
+  out/
+    production/
+      ProjectName/ 
+        Main.class
+  src/
+    Main.java
+  External Libraries/
+    <JDK 1.8>/
+    other/
+    Jar.jar
