@@ -1,0 +1,13 @@
+/* Test frame */ 
+  public static void main(String[] args ) {
+      
+      /* Test here */  
+      
+      /* Gui test interface */ 
+      JFrame frame = new JFrame("Test"); 
+      
+      frame.setSize(800, 800);
+      frame.setVisible(true); 
+      frame.setDefaultCloseOperation(frame.EXIT_ON_CLOSE); 
+      
+  }

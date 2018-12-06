@@ -1,0 +1,51 @@
+"java.util." package contains classes and interfaces for this (doesn't have to be created from scratch like C/C++" 
+
+Java Collection Framework contains interfaces for Set, List, Queue, Deque etc.
+Java Collection Framework contains classes for ArrayList, Vector, LinkedList, HashSet, LinkedHashSet, TreeSet etc. 
+
+ARRAY 
+  type[] name; 
+  type[] name = {} //initialize
+  -basically a list (by definition this means ordered insertion) 
+
+ARRAYLIST
+  -part of the List interface
+  -dynamic array (can change by remove or add without copying to new array for changes like in a traditional array) 
+  -can contain duplicate elements 
+  -contains baked in methods in the class
+  -basic methods are size, add, and delete
+  -provides random access and more efficient at accessing elements but slower at inserting and deleting elements 
+
+HASHMAP
+  -stores key/value pairs 
+  -key/value pair is a bucket 
+  -each bucket is stored in an array
+  -hashing function works on the key and returns an index
+  -each bucket contains a pointer to the next bucket 
+  -basic methods are get and put 
+  -implementation of the Map interface
+  -entries are not ordered (stored in random locations) 
+
+LINKED LIST
+  -part of List interface
+  -one node points to another
+  -problematic in java for some reason? 
+  -efficient insertion and removal
+  -class in java 
+  -maintains insertion order to be used as a list, stack, or queue
+  -less efficient at accessing elements in a list (has to traverse element by element)
+
+STACK 
+  -last in first out (LIFO)
+  -implement with arrays or linked list (heavier on memory for LL)
+  -use push or pop on stack  
+  -useful in recursion 
+
+QUEUE
+  -first in first out (FIFO) 
+  -first element in queue is first removed 
+
+TREE 
+  -consists of a set of elements(nodes) 
+  -can be defined recursively 
+  -each node is a data structure consisting of a value with reference list of nodes(children) 

@@ -1,0 +1,32 @@
+
+
+public class JavaXML { 
+
+	static final String outputEncoding = "UTF-8" 
+	
+	private static void usage() {
+		System.out.println("JavaXML filename"); 
+	}
+
+	public static void main(String[] args) throws Exception { 
+		String filename = null; 
+		
+		for (int i = 0; i < args.length; i++) { 
+			if (filename != null) {
+				// Do something 
+			}
+			else { 
+				filename = args[i]; 
+				if (i != args.length - 1) { 
+					usage(); 
+				}
+			}
+		}
+
+		if (filename == null) { 
+			usage(); 
+		} 
+		
+	} 
+
+} 

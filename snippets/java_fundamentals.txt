@@ -1,0 +1,18 @@
+# structure 
+
+JDK
+  -syntax
+  -data types
+  -control flow
+  -object-oriented
+
+JRE (SE, EE, ME, FX)
+  -configuration
+  -security
+  -threading
+  -input/output
+
+  IDE for Java 
+    Netbeans only supports newere Java with the Apache version 
+
+    IntelliJ supports Java SE and Android right out of the box*

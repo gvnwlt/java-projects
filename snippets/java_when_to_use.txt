@@ -1,0 +1,4 @@
+# gui applications 
+# high abstraction (easier to write understand programs)
+# server applications (mission critical server-side applications)
+# when SQL is needed on the backend

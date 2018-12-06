@@ -1,0 +1,44 @@
+import javax.swing.JMenu; 
+import javax.swing.JMenuBar; 
+import javax.swing.JMenuItem; 
+
+
+public class DrawingMenu {
+  
+  JMenuBar menuBar;  
+ 
+  public DrawingMenu() {
+
+    menuBar = new JMenuBar();
+  
+    /* File Menu */
+    JMenu fileMenu = new JMenu("File");
+    JMenuItem newMenuItem = new JMenuItem("New");
+    JMenuItem openMenuItem = new JMenuItem("Open");
+    JMenuItem saveMenuItem = new JMenuItem("Save");
+    JMenuItem exitMenuItem = new JMenuItem("Exit");
+    fileMenu.add(newMenuItem);
+    fileMenu.add(openMenuItem);
+    fileMenu.add(saveMenuItem);
+    fileMenu.add(exitMenuItem);
+    menuBar.add(fileMenu);
+  
+    /* Edit Menu */
+    JMenu editMenu = new JMenu("Edit");
+    JMenuItem cutMenuItem = new JMenuItem("Cut");
+    JMenuItem copyMenuItem = new JMenuItem("Copy");
+    JMenuItem pasteLineMenuItem = new JMenuItem("Paste");
+    editMenu.add(cutMenuItem);
+    editMenu.add(copyMenuItem);
+    editMenu.add(pasteMenuItem);
+    menuBar.add(editMenu);
+    
+    /* Help Menu */
+    JMenu helpMenu = new JMenu("Help");
+    JMenuItem helpMenuItem = new JMenuItem("About");
+    JMenuItem documentationMenuItem = new JMenuItem("Documentation");
+    helpMenu.add(documentationMenuItem);
+    helpMenu.add(helpMenuItem);
+    menuBar.add(helpMenu);
+  
+  }

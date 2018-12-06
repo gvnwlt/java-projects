@@ -1,0 +1,65 @@
+ 
+import java.awt.Graphics; 
+import java.awt.event.MouseEvent; 
+import java.awt.event.MouseListener; 
+import java.awt.event.MouseMotionListener; 
+
+import javax.swing.JComponent; 
+
+public class DrawingArea extends JComponent implements MouseListener, MouseMotionListener {
+  
+  int x; 
+  int y; 
+  int x1; 
+  int y2; 
+  Graphics g; 
+  
+  public DrawingArea() {
+    addMouseListener(this);  
+    addMouseMotionListener(this); 
+  }
+  
+  public void paint(Graphics g) {
+
+  }
+ 
+  /* MouseListener */ 
+  public void mouseClicked(MouseEvent e) {
+    System.out.println("mouse clicked at " + e.getX() + " " + e.getY());  
+  }
+
+  public void mouseEntered(MouseEvent e) {
+    System.out.println("mouse entered");  
+  }
+  
+  public void mouseExited(MouseEvent e) {
+    System.out.println("mouse exited");  
+  }
+
+  public void mousePressed(MouseEvent e) {
+    System.out.println("mouse pressed at " + e.getX() + " " + e.getY());  
+    x = e.getX();
+    y = e.getY(); 
+  }
+
+  public void mouseReleased(MouseEvent e) {
+    System.out.println("mouse released at " + e.getX() + " " + e.getY());  
+    g = this.getGraphics(); 
+    g.setColor(Color.RED); 
+    g.drawLine(x,y,x1,y2); 
+    //repaint(); 
+  }
+  
+  /* MouseMotionListener */ 
+  public void mouseDragged(MouseEvent e) {
+    //repaint(); 
+    System.out.println("mouse dragged at " + e.getX() + " " + e.getY());  
+    x1 = e.getX(); 
+    y2= e.getY(); 
+  }
+  
+  public void mouseMoved(MouseEvent e) {
+    System.out.println("mouse moved at " + e.getX() + " " + e.getY());  
+  }
+
+}

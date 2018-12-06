@@ -1,0 +1,11 @@
+# Singletons
+# a single instance of a class (can only be one instance)
+# prevents any other object from creating another instance of the class (thread
+protection)
+# gives global access point to that one object 
+# good to use on the following: 
+  -connection and thread pools
+  -logging facilities 
+  -preference and registry objects 
+  -device, printer, and graphics drivers 
+

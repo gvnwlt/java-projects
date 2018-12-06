@@ -1,0 +1,10 @@
+﻿
+projectname/
+│
+├── bin
+├── doc
+├── inf
+├── lib
+├── res
+├── src
+└── tst

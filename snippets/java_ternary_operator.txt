@@ -1,0 +1,14 @@
+import java.util.*; 
+
+class Test {
+   public static void main(String[] args) {
+      int[] player1 = {1,7};
+      int[] player2 = {2,11};
+      int winner; 
+      
+      //ternary good for this or that situations or conditions with only two outcomes 
+      winner = player1[1] > player2[1] ? player1[0] : player2[0]; 
+
+      System.out.println("And the winner is...Player" + winner + "!); 
+   }
+}

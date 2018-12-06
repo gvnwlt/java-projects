@@ -1,0 +1,29 @@
+# java packages 
+
+  Provides organization in a java program. 
+
+  Effects source code file structure. 
+
+  Package names are all lowercase. 
+
+  Creates a sense of uniqueness. 
+
+  Use reverse domain name (com.name.package)
+
+  Adding the package key term in a class file makes that file appart of the package:
+
+  package com.something; 
+
+  public class Main {
+      public static void main (Strings[] args) {
+
+      }
+  }
+
+  is -> com.something.Main (each part of the packages name need to be apart of a subfolder)
+
+# folder structure for a package
+  src 
+    com
+      something
+         Main.java
