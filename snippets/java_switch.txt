@@ -1,0 +1,13 @@
+# Java switch 
+
+// only char and ints can be used
+switch (test-value) {
+    case value1:
+      statments
+    case value2:
+      statments
+    case value3:
+      statments
+    default:
+      break;
+}

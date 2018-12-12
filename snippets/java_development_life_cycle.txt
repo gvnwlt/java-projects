@@ -1,0 +1,8 @@
+# Java Development Lifecycle
+  
+                code
+              /      \
+static analysis    build
+              \      / 
+                test
+

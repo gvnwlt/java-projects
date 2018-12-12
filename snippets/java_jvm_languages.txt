@@ -1,0 +1,6 @@
+# JVM Languages
+  -java source code (jdk)
+  -kotlin (a better java; endorsed by Google for Android development)
+  -android
+  -groovy (interpreted or compiled)
+  -scala (oo programming with functional programming)

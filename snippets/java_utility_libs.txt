@@ -1,0 +1,29 @@
+# Java utility libs 
+
+# Google Guava (Caching, IO helpers)
+
+# Apache Commons Collections (CSV, IO)
+
+# Apahce Log4J (structured application logging)
+
+# Netty (high-performance networking; distributed networks)
+
+# Akka (actor model for concurrency; clustering and distribution)
+
+# RxJava (reactive programming)
+
+# Apache Camel (lowlevel details of setting up a server/client; about wiring together existing systems into new workflows)
+
+# Java Database Connectivity (JDBC) (mysql, postgres, oracle, h2)
+
+# Java Hadoop (big data processing)
+
+# Apache Spark
+
+# DL4J (Deep Learning for Java)
+
+# Cassandra (complex databases)
+
+# Neo4j()
+
+# Hadoop distributed file system

@@ -1,0 +1,21 @@
+# primitives 
+  
+  The foundation for all other types in java 
+
+  Integer, Floats, Character, Boolean
+
+  The only real difference in types is the size of storage they take up. 
+
+# integer type sizes in bits (effects the ranges of values that can be stored in a type)
+  -byte: 8
+  -short: 16
+  -int: 32
+  -long: 64
+
+# float type size in bits 
+  -float: 32
+  -double: 64
+
+
+
+

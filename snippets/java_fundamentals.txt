@@ -1,4 +1,4 @@
-# structure 
+# structure (write once, run everywhere)
 
 JDK
   -syntax
@@ -12,7 +12,12 @@ JRE (SE, EE, ME, FX)
   -threading
   -input/output
 
-  IDE for Java 
+IDE for Java 
     Netbeans only supports newere Java with the Apache version 
 
     IntelliJ supports Java SE and Android right out of the box*
+
+What 
+  -language (complies into application byte code for the jvm--> turns the byte code into actual machine instructions)
+  -runtime environment
+  -standard library  

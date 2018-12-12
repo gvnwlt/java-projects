@@ -1,0 +1,23 @@
+# Java Build Tools 
+
+  Use for repeatable builds
+
+  Managing multiple modules 
+
+  Managing external dependencies 
+
+  Running tests
+
+
+# Maven (most widely used)
+  -uses pom.xml 
+
+# Gradle
+  -builds with Groovy scripts
+  -incremental builds 
+
+
+# Static code analysis 
+  -checkstyle
+  -spotbugs 
+  -pmd (static source code analyzer)

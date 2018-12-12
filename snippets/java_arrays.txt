@@ -1,0 +1,5 @@
+# Java Arrays 
+
+Ordered collection of elements
+
+float[] theVals = new float[3]; 

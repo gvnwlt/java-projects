@@ -1,0 +1,6 @@
+# Java and or 
+
+# And & vs && along with | vs ||
+  &, | evaluates both sides to validate 
+  &&, || evluates only one side before going to next 
+
